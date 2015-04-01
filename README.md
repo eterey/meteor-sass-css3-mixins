@@ -150,6 +150,12 @@ Install package:
    meteor add uzumaxy:sass-css3-mixins
 ```
 
+Add some Sass build plugin for Meteor, for example:
+
+```bash
+   meteor add fourseven:scss
+```
+
 Call Mixins: 
 
 ```sass 
